@@ -6,7 +6,7 @@ const api_key = "2f1mSszZCQYoS3XBCaRlNA==4z00JougyxfhQD5p";
 const options = {
     method: "GET",
     headers: {
-        "X-Api-Key": api_key
+        "X-Api-Key": api_key, // this is the apikey
     }
 };
 
